@@ -89,3 +89,12 @@ input{
     font-size: 15px;
     display: block;
 }
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
